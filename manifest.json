@@ -1,0 +1,14 @@
+{
+    "name": "Table Builder",
+    "version": "1.0.0",
+    "description": "Provides advanced table blocks.",
+    "author": "Jankx",
+    "extension_id": "table-builder",
+    "caller": {
+        "file": "TableBuilderExtension.php",
+        "class": "Jankx\\Extensions\\TableBuilder\\TableBuilderExtension",
+        "method": "init"
+    },
+    "auto_activate": true,
+    "enabled": true
+}

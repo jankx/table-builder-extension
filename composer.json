@@ -1,0 +1,14 @@
+{
+    "name": "jankx/table-builder",
+    "description": "Table Builder",
+    "type": "jankx-extension",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\Extensions\\TableBuilder\\": [
+                "",
+                "includes/"
+            ]
+        }
+    }
+}
