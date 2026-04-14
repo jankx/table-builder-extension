@@ -1,6 +1,6 @@
 {
     "name": "Table Builder",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Provides advanced table blocks.",
     "author": "Jankx",
     "extension_id": "table-builder",
